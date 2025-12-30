@@ -1,0 +1,17 @@
+# Sensitive Data
+*.xlsx
+*.xls
+*.csv
+*.json
+
+# System Files
+__pycache__/
+*.pyc
+.venv
+env/
+.env
+.streamlit/secrets.toml
+
+# IDE
+.vscode
+.idea
